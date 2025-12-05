@@ -3,7 +3,7 @@ using namespace std;
 
 void solve()
 {
-    cout << "Hello World" << endl;
+    cout << "Hello World" << '\n';
 }
 
 int main()
